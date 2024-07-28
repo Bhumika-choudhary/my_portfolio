@@ -64,6 +64,7 @@ body {
     color: rgb(48, 191, 248);
     cursor: pointer;
     display: none;
+    right: 10%
 }
 
 section {
