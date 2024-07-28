@@ -258,7 +258,7 @@ section {
     align-items: center;
     flex-direction: column;
     gap: 2rem;
-    background: #3e053b;
+    background: rgb(39, 2, 38);
     padding-bottom: 6rem;
 }
 
@@ -435,7 +435,7 @@ span {
 .skills {
     min-height: auto;
     padding-bottom: 7rem;
-    background: #3e053b;
+    background: rgb(39, 2, 38);
 }
 
 .skills h2 {
@@ -717,9 +717,7 @@ span {
     animation: none;
 }
 
-section:nth-child(odd) .animate.scroll {
-    background: #3e053b;
-}
+
 
 .education .education-box .animate.scroll {
     width: 105%;
