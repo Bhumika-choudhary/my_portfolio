@@ -11,7 +11,7 @@
 
 html {
     font-size: 62.5%;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 body {
@@ -550,7 +550,7 @@ span {
 }
 
 .contact {
-    padding-bottom: 7rem;
+    padding-bottom: 10rem;
     min-height: auto;
 }
 
