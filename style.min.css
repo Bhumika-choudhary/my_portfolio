@@ -64,7 +64,7 @@ body {
     color: rgb(48, 191, 248);
     cursor: pointer;
     display: none;
-    right: 10%
+    right: 15%
 }
 
 section {
@@ -149,6 +149,7 @@ section {
     width: 55rem;
     height: 5rem;
     background: transparent;
+    right: 15%
 }
 
 .btn-box .btn {
